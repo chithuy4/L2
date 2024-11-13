@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1731317955140,
+  "timestamp": 1731487669098,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.f431c7feda883b0b.js",
+        "/main.12d4bb76fba275ef.js",
         "/manifest.webmanifest",
         "/polyfills.7f46c86f9ef70702.js",
         "/runtime.da670921ff49f6a4.js",
@@ -33,6 +33,7 @@
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-256x256.png",
         "/assets/icons/icon-512x512.png",
+        "/assets/images/Mate.mp4",
         "/assets/images/avatar.png",
         "/assets/images/banner.png",
         "/assets/images/bg.jpg",
@@ -57,6 +58,7 @@
     "/assets/icons/icon-144x144.png": "3269e86f1bc6f1f0d8837a116ce4ec704396970d",
     "/assets/icons/icon-256x256.png": "87e2d44eec6aa562e5f95f631e070de21a7b8c6a",
     "/assets/icons/icon-512x512.png": "7841c240273db4020ea8f2df8cfeb965c8e2f1c1",
+    "/assets/images/Mate.mp4": "0cc399458bb86e12ebcc7f81a34d7d18d4200d21",
     "/assets/images/avatar.png": "b8bfe3b59f0dc0d7841d17f4352ac2ce0feb2238",
     "/assets/images/banner.png": "9d71c7e6adfbb5160f11648cf4cd1857b54a1e2d",
     "/assets/images/bg.jpg": "54492aa337fc8ee34297a04fd789d202fba78d58",
@@ -73,8 +75,8 @@
     "/assets/images/steps.png": "6172693ce020c0c8946ce14da8e688ed48c81fe3",
     "/assets/images/verify.png": "ea4a4be7fc93c1be05eaf542053212cef7f02658",
     "/favicon.ico": "111f776ec0200627ac99f088af0edd163c435914",
-    "/index.html": "e455c7e71a0c7e50aca2b2200fc596b504bb2d2d",
-    "/main.f431c7feda883b0b.js": "f0f6520ed99ad205d2b46cd136c47873f322aa1f",
+    "/index.html": "7add5764b4e49d21138b3d8fdd0bf439880070ed",
+    "/main.12d4bb76fba275ef.js": "2ef1a7553d0b4f9569c1518a20ef7350631ff1c3",
     "/manifest.webmanifest": "1844fa6cf68e753c780415023c65133f5685f404",
     "/polyfills.7f46c86f9ef70702.js": "11ffd8901e824c0101effd90295f57e9dacabbdd",
     "/runtime.da670921ff49f6a4.js": "bcb905ea3165b9c8699de646ec2f49b3aba8a5e3",
